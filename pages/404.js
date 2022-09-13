@@ -5,7 +5,7 @@ export default function Page404() {
         <div>
             <h1> Não deu certo, volte novamente clicando aqui </h1>
             <Link href="/">
-                Voltar para a Home
+               - Voltar para a Home -
             </Link>
         </div>
     );
